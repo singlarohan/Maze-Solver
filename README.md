@@ -3,8 +3,14 @@
 A visual pathfinding program that allows the user to create their own obstacles or mazes and then run different pathfinding algorithms on it. This program includes the ability to place weighted path nodes, the ability to generate a random maze using Prim's algorithm, a results display after each successful path found, and five different algorithms to choose from.
 
 ## Demo Images
+
+Maze Generating
 ![Maze Generating](comp/generating.png)
+
+Maze Generated
 ![Maze Generated](comp/generated.png)
+
+Path using A* Search
 ![A* Search](comp/searched.png)
 
 ## Features
